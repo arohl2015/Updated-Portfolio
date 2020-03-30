@@ -10,6 +10,7 @@
     background-color: gray;
 }
 
-.contact-card {
-    box-shadow: 0 5px 10px 0 black
+.img-responsive {
+    width: 400px;
+    height: 175px;
 }

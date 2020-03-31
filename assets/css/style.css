@@ -7,7 +7,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 0.5rem 1rem;
-    background-color: #565656;
+    background-color: #a9a9a9;
 }
 
 .img-responsive {
@@ -20,5 +20,5 @@ body {
 }
 
 .jumbotron {
-    background: url(../images/purple.jpg);
+    background-color: #c09f80;
 }

@@ -7,7 +7,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 0.5rem 1rem;
-    background-color: gray;
+    background-color: #565656;
 }
 
 .img-responsive {
@@ -15,4 +15,10 @@
     height: 175px;
 }
 
-.footer
+body {
+    background-color: #d7cec7;
+}
+
+.jumbotron {
+    background: url(../images/purple.jpg);
+}

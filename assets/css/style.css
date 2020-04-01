@@ -8,7 +8,22 @@
     align-items: center;
     justify-content: space-between;
     padding: 0.5rem 1rem;
-    background-color: #a9a9a9;
+    background-image: linear-gradient( #a9a9a9, #d7cec7);
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    font-family: 'Spicy Rice', cursive;
+}
+
+h5 {
+    font-family: 'Courgette', cursive;
+}
+
+p1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
 }
 
 .img-responsive {
@@ -18,7 +33,7 @@
 
 .move:hover {
     background-color: chocolate;
-    opacity: .8;
+    opacity: .4;
 }
 
 body {
@@ -29,7 +44,8 @@ body {
     background-image: linear-gradient( #ab987a, #d7cec7);
 }
 
-.fa-html5, .fa-css3-alt {
-    color: pink;
-    background-color: black;
+.fa-html5, .fa-css3-alt, .fa-js-square, .fa-file-code,
+.fa-bootstrap, .fa-github-square, .fa-database, .fa-node-js {
+    color: #76323f;
+    background-color: darkgrey;
 }

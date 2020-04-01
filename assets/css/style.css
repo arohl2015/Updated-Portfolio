@@ -1,7 +1,8 @@
 .navbar {
     margin-bottom: 0;
     border-radius: 0;
-    position: relative;
+    position: fixed;
+    top: 0;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -15,10 +16,20 @@
     height: 175px;
 }
 
+.move:hover {
+    background-color: chocolate;
+    opacity: .8;
+}
+
 body {
     background-color: #d7cec7;
 }
 
 .jumbotron {
-    background-color: #c09f80;
+    background-image: linear-gradient( #ab987a, #d7cec7);
+}
+
+.fa-html5, .fa-css3-alt {
+    color: pink;
+    background-color: black;
 }

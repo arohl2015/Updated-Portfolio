@@ -49,3 +49,13 @@ body {
     color: #76323f;
     background-color: darkgrey;
 }
+
+.rotate {
+    width: 100px;
+    height: 100px;
+    transition: width 2s, height 2s, transform 3s;
+  }
+  
+.rotate:hover {
+    transform: rotate(360deg);
+}

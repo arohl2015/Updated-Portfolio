@@ -58,7 +58,9 @@ body {
 }
 
 .fa-html5, .fa-css3-alt, .fa-js-square, .fa-file-code,
-.fa-bootstrap, .fa-github-square, .fa-database, .fa-node-js {
+.fa-bootstrap, .fa-github-square, .fa-database, .fa-node-js,
+.fa-buffer, .fa-server, .fa-shipping-fast, .fa-react,
+.fa-bezier-curve, .fa-object-group, .fa-file-import, .fa-table {
     color: #76323f;
     background-color: darkgrey;
 }

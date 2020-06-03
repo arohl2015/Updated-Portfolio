@@ -15,12 +15,23 @@
 * Readability: make sure the font size is large enough to read, and that the colors don't cause eye strain.
     * Design Notes: Used Bootstrap to make the site mobile responsive and used an external CSS stylesheet along with style inside the html to make header/footer/button elements design as needed. I also learned new CSS elements to make my icons spin and create an entire background with gradient and custom colors.
 
-## Technologies used:
-HTML-5, Bootstrap, CSS, Font Awesome, Google Fonts
+## Portfolio Home Page:
+​
+![portexample](/assets/images/portfolio.PNG)
+
+## Technologies Used:
+-   HTML
+-   CSS
+-   Bootstrap
+-   Google Fonts
+-   Font Awesome
+-   GitHub
 
 ## Layout Credit:
 * W-3 Schools Bootstrap Layout Template
-* Canva.com for colors
+* Canva.com for customized colors
 
-## Deployed Portfolio:
-https://arohl2015.github.io/Updated-Portfolio/
+## Connect with Me & View my Work:
+- <a href="https://arohl2015.github.io/Updated-Portfolio/" target="_blank"> Portfolio <a>
+- <a href="https://github.com/arohl2015" target="_blank"> GitHub </a>
+- <a href="www.linkedin.com/in/aprilrohlcfp" target="_blank"> LinkedIn </a>
